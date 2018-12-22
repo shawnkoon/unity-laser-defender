@@ -54,8 +54,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\Player.cs" />
-     <None Include="Assets\Space Shooter Visual Assets\license.txt" />
-     <None Include="Assets\Space Shooter Visual Assets\Spritesheet\sheet.xml" />
+     <None Include="Assets\Z_Space Shooter Visual Assets\license.txt" />
+     <None Include="Assets\Z_Space Shooter Visual Assets\Spritesheet\sheet.xml" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/shawn.choi/Desktop/shawn/program/git/unity-laser-defender/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
