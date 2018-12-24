@@ -4,10 +4,7 @@ using UnityEngine;
 
 public class EnemyPath : MonoBehaviour
 {
-
-    [SerializeField]
     private WaveConfig waveConfig;
-
     private List<Transform> pathPoints;
     private int wayPointIndex = 0;
 
@@ -20,6 +17,11 @@ public class EnemyPath : MonoBehaviour
     private void Update()
     {
         this.MoveEnemy();
+    }
+
+    public void SetWaveConfig(WaveConfig waveConfig)
+    {
+        this.waveConfig = waveConfig;
     }
 
     private void MoveEnemy()

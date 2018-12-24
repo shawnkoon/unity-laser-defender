@@ -54,3 +54,6 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: 646586e20b6f04fcea34a8f1b3b8f0c2, type: 2}
   - {fileID: 11400000, guid: 7767347e232ce40b0b269595d4844e4f, type: 2}
+  - {fileID: 11400000, guid: 5bb66a8a8bb5f41ecbe363a96be7af3f, type: 2}
+  - {fileID: 11400000, guid: a9607426e93df4d8483c13c80519cfed, type: 2}
+  startWaveIndex: 0
